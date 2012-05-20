@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/3355/trunk/lcabot/commands
+END
+irc.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3342/trunk/lcabot/commands/irc.py
+END
+countdown.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3352/trunk/lcabot/commands/countdown.py
+END
+twitter.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3355/trunk/lcabot/commands/twitter.py
+END
+reminder.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3346/trunk/lcabot/commands/reminder.py
+END
+rt.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/3351/trunk/lcabot/commands/rt.py
+END
